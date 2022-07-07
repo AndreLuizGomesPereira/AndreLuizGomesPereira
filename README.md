@@ -1,6 +1,6 @@
 ## Olá pessoal, me chamo André Luiz! 👋
 
-- Atualment sou um profissional responsável por realizar testes, procurar bugs e falhas e reportá-los para as equipes de desenvolvimento, além de sugerir estratégias de otimização para programas e sistemas. Mas também atuo como Front-End.
+- Atualmente sou um profissional responsável por realizar testes, procurar bugs e falhas e reportá-los para as equipes de desenvolvimento, além de sugerir estratégias de otimização para programas e sistemas. Mas também atuo como Front-End.
 
 
 
