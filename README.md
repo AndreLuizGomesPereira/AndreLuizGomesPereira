@@ -27,6 +27,9 @@
 
 ### Contatos:
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="andreluizgomespereira" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/andreluizgomespereira?trk=profile-badge">Andre Luiz Gomes Pereira</a></div>
+              
+
 <div>
 <a href="https://instagram.com/andrekalel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:andregomesenator@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
