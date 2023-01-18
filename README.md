@@ -16,7 +16,8 @@
 
 ### - Aperfeiçoando...
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/>
+
+ <img src="https://img.icons8.com/color/48/null/selenium-test-automation.png"/><img src="https://img.icons8.com/color/40/null/java-coffee-cup-logo--v1.png"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/>
  <img src="https://img.icons8.com/office/48/000000/ruby-programming-language.png"/>
  <img src="https://img.icons8.com/external-flat-icons-maxicons/48/000000/external-animal-life-of-amazon-flat-flat-icons-maxicons-9.png"/>
  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
