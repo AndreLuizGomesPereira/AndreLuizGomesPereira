@@ -1,6 +1,22 @@
 ## Olá pessoal, me chamo André Luiz! 👋
 
-- Atualmente sou um profissional responsável por realizar testes, procurar bugs e falhas e reportá-los para as equipes de desenvolvimento, além de sugerir estratégias de otimização para programas e sistemas. Mas também atuo como Front-End.
+Estou em busca de garantir a qualidade dos produtos ou serviços que é a mim confiado. Responsável por implementar processos e metodologias para assegurar que os produtos atendam aos padrões de qualidade estabelecidos.
+
+- Desenvolver e executar planos de teste para identificar defeitos e problemas nos produtos. (BDD - Gherkin)
+- Colaborar com a equipe de desenvolvimento para compreender os requisitos do projeto e definir critérios de aceitação.
+- Realizar testes manuais e/ou automatizados para verificar a funcionalidade e a usabilidade dos produtos.
+ * Implementar e manter ferramentas e frameworks de automação de testes.
+ * Automação CypressJS
+ * Ruby, Rspec, Capybara
+ * Robot Framework
+- Documentar e relatar bugs encontrados durante os testes, bem como acompanhar o processo de correção.
+- Participar de revisões de código e de reuniões de planejamento para garantir a qualidade em todas as etapas do projeto.
+- Garantir que os padrões de qualidade sejam seguidos e que as práticas recomendadas de QA sejam aplicadas.
+
+Em Desenvolvimento:
+- Estudo em linguagens de programação
+ * Java / Selenium
+ * Python
 
 
 
