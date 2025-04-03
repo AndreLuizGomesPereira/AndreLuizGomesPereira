@@ -7,6 +7,7 @@ Estou em busca de garantir a qualidade dos produtos ou serviços que é a mim co
 - Realizar testes manuais e/ou automatizados para verificar a funcionalidade e a usabilidade dos produtos.
  * Implementar e manter ferramentas e frameworks de automação de testes.
  * Automação CypressJS
+ * Playwright
  * Ruby, Rspec, Capybara
  * Robot Framework
 - Documentar e relatar bugs encontrados durante os testes, bem como acompanhar o processo de correção.
